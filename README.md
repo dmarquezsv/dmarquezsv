@@ -26,6 +26,7 @@ compañía que se ajuste a mis valores y expectativas.
  <img src="https://img.shields.io/badge/Android-69A243?style=for-the-badge&logo=android&logoColor=white">
  <img src="https://img.shields.io/badge/Linux-65CACF?style=for-the-badge&logo=linux&logoColor=white">
  <img src="https://img.shields.io/badge/PHPMYADMIN-E1A344?style=for-the-badge&logo=phpmyadmin&logoColor=white">
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 <h3>
