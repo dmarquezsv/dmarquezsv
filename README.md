@@ -4,7 +4,7 @@
    “data” : 
      { 
       "Linkedin"   : "https://www.linkedin.com/in/daniel-marquez-sv", 
-      "portafolio" : "http://danielmarquez.ga/",
+      "portafolio" : "http://dmarquez.ga/",
       "IG"         : "https://www.instagram.com/webmaker.sv/"
      }
  }
