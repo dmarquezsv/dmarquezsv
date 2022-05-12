@@ -3,7 +3,7 @@
    “role” : “Programador”,
    “data” : 
      { 
-      "Linkedin"   : "https://www.linkedin.com/in/daniel-marquez-sv", 
+      "Linkedin"   : "https://www.linkedin.com/in/dmarquezsv", 
       "portafolio" : "http://dmarquez.ga/",
       "IG"         : "https://www.instagram.com/webmaker.sv/"
      }
