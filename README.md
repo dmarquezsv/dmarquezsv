@@ -24,12 +24,13 @@ Escríbeme un email o Descarga mi CV.
 <h3>
   🚀 Principal Stack
 </h3> 
-```md
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-```
-```md
-[![My Skills](https://skillicons.dev/icons?i=js,php,laravel,java,androidstudio,linux,mysql,github)](https://skillicons.dev)
-```
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,androidstudio,linux,mysql,github" />
+  </a>
+</p>
+
 <p>
  <img src="https://img.shields.io/badge/PHP-546E8C?style=for-the-badge&logo=php&logoColor=white">
  <img src="https://img.shields.io/badge/Laravel%208-FF5733?style=for-the-badge&logo=laravel&logoColor=white">
