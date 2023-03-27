@@ -24,6 +24,7 @@ Escríbeme un email o Descarga mi CV.
 <h3>
   🚀 Principal Stack
 </h3> 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,php,laravel,java,androidstudio,linux,mysql,github)](https://skillicons.dev)
 
 <p>
