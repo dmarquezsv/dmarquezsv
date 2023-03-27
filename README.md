@@ -1,14 +1,7 @@
 # ¡Hola! 👋 Bienvenido...
 ```shell
  { “name” : “Daniel Márquez”,
-   “rol” : “Programador Junior”,
-   "portafolio": "www.dmarquez.ga",
-   “Redes Sociales” : 
-     { 
-      "Instagram":  "@webmaker.sv"
-      "Facebook":   "@webmakers.sv"
-      "Linkedin"   : "dmarquezsv", 
-     }
+   “rol” : “Programador Junior”
  }
 ```
 
@@ -18,6 +11,15 @@ Estoy comprometido con la actualización constante de mis conocimientos y habili
 
 ## Recursos
 Escríbeme un email o Descarga mi CV.
+- Mi email: <a style="margin-left: 8px;" href="mailto:devsmarquez@gmail.com">devsmarquez@gmail.com</a>
+- Mi CV en formato PDF: <a style="text-align: center;" href="http://dmarquez.ga/documents/cv_daniel_marquez.pdf">Curriculum Vitae</a>
+
+📱 Redes Sociales<br>
+
+### <a href="https://www.instagram.com/webmaker.sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webmaker.sv" height="30" width="40" /></a>  <a href="https://www.instagram.com/webmaker.sv" target="_blank">WebMaker.sv</a>
+
+### <a href="https://www.facebook.com/webmaker.sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="webmaker.sv" height="30" width="40" /></a>  <a href="https://www.facebook.com/webmaker.sv" target="_blank">WebMaker.sv</a>
+
 
 <h3>
   🚀 Principal Stack
@@ -47,15 +49,6 @@ Escríbeme un email o Descarga mi CV.
 - 💾 CRM: SPlYNX ISP Framework.
 - 🔒 Redes y Seguridad: FTP, Web (Apache, NGINX) , Hotspot (Mikrotik) y apache
 
-<h3>
-   📱 Redes Sociales
-</h3>
-
-### <a href="https://www.instagram.com/webmaker.sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webmaker.sv" height="30" width="40" /></a>  <a href="https://www.instagram.com/webmaker.sv" target="_blank">WebMaker.sv</a>
-
-### <a href="https://www.facebook.com/webmaker.sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="webmaker.sv" height="30" width="40" /></a>  <a href="https://www.facebook.com/webmaker.sv" target="_blank">WebMaker.sv</a>
- 
- 
  ### Github Stats:
 
 <table>
