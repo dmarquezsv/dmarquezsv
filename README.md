@@ -25,6 +25,9 @@ Escríbeme un email o Descarga mi CV.
   🚀 Principal Stack
 </h3> 
 ```md
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+```
+```md
 [![My Skills](https://skillicons.dev/icons?i=js,php,laravel,java,androidstudio,linux,mysql,github)](https://skillicons.dev)
 ```
 <p>
