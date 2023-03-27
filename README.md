@@ -48,7 +48,7 @@ Escríbeme un email o Descarga mi CV.
 - 💾 CRM: SPlYNX ISP Framework.
 - 🔒 Redes y Seguridad: FTP, Web (Apache, NGINX) , Hotspot (Mikrotik) y apache
 
- ### Github Stats:
+ ### Estadísticas de Github:
 
 <table>
   <tr>
