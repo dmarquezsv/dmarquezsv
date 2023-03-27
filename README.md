@@ -1,19 +1,23 @@
+# ¡Hola! 👋 Bienvenido...
 ```shell
  { “name” : “Daniel Márquez”,
-   “role” : “Programador”,
-   “data” : 
+   “rol” : “Programador Junior”,
+   "portafolio": "www.dmarquez.ga",
+   “Redes Sociales” : 
      { 
-      "Linkedin"   : "https://www.linkedin.com/in/dmarquezsv", 
-      "portafolio" : "http://dmarquez.ga/",
-      "IG"         : "https://www.instagram.com/webmaker.sv/"
+      "Instagram":  "@webmaker.sv"
+      "Facebook":   "@webmakers.sv"
+      "Linkedin"   : "dmarquezsv", 
      }
  }
 ```
 
-👋 Hola, Mi nombre es Daniel Márquez. Soy una persona responsable, organizada y que además adora los retos. 
-Cuento con 2 años de experiencia laboral asociado a front end y back end como también un 1 año en administradores de servidores.
-Gracias a mi formación y experiencia obtenida, considero que puedo aportar valor y continuar desarrollándome en una
-compañía que se ajuste a mis valores y expectativas.
+💬 Soy un desarrollador de back-end con experiencia en operaciones de IT y programación. Me especializo en el desarrollo de plataformas web utilizando tecnologías como <b>PHP</b>, <b>Laravel 8</b> , <b>MySQL</b> y <b>API REST</b>. Con un enfoque centrado en el usuario y la eficiencia, he logrado crear soluciones innovadoras para mejorar procesos empresariales y satisfacer las necesidades de los clientes. 👨‍💻❤️
+
+Estoy comprometido con la actualización constante de mis conocimientos y habilidades, lo que me permite ofrecer soluciones eficientes y a la vanguardia de las últimas tendencias tecnológicas. Siempre estoy dispuesto a trabajar en equipo y a aportar ideas creativas que generen valor y mejoren la calidad de los proyectos. 💯
+
+## Recursos
+Escríbeme un email o Descarga mi CV.
 
 <h3>
   🚀 Principal Stack
