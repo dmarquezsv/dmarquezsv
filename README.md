@@ -35,7 +35,7 @@ Escríbeme un email o Descarga mi CV.
 
 
 <h3>
-   ## 🏅Tecnologías que he usado.
+   🏅Tecnologías que he usado.
 </h3>
 
 - 💻 Back-End: PHP, Laravel, Android Studio Java ,JavaScript,JQuery ,AJAX, Javascript y Java.
