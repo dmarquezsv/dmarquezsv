@@ -16,38 +16,31 @@ Escríbeme un email o Descarga mi CV.
 
 📱 Redes Sociales<br>
 
-### <a href="https://www.instagram.com/webmaker.sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webmaker.sv" height="30" width="40" /></a>  <a href="https://www.instagram.com/webmaker.sv" target="_blank">WebMaker.sv</a>
+### <a href="https://www.instagram.com/webmaker.sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webmaker.sv" height="30" width="40" /></a>  <a href="https://www.instagram.com/webmaker.sv" target="_blank">webmaker.sv</a>
 
-### <a href="https://www.facebook.com/webmaker.sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="webmaker.sv" height="30" width="40" /></a>  <a href="https://www.facebook.com/webmaker.sv" target="_blank">WebMaker.sv</a>
+### <a href="https://www.facebook.com/webmaker.sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="webmaker.sv" height="30" width="40" /></a>  <a href="https://www.facebook.com/webmaker.sv" target="_blank">webmaker.sv</a>
+
+### <a href="https://www.linkedin.com/in/dmarquezsv/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="dmarquezsv" height="30" width="40" /></a>  <a href="https://www.linkedin.com/in/dmarquezsv/" target="_blank">Linkedin</a>
 
 
 <h3>
   🚀 Principal Stack
 </h3> 
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,java,androidstudio,linux,mysql,github" />
   </a>
 </p>
 
-<p>
- <img src="https://img.shields.io/badge/PHP-546E8C?style=for-the-badge&logo=php&logoColor=white">
- <img src="https://img.shields.io/badge/Laravel%208-FF5733?style=for-the-badge&logo=laravel&logoColor=white">
- <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white">
- <img src="https://img.shields.io/badge/Android-69A243?style=for-the-badge&logo=android&logoColor=white">
- <img src="https://img.shields.io/badge/Linux-65CACF?style=for-the-badge&logo=linux&logoColor=white">
- <img src="https://img.shields.io/badge/PHPMYADMIN-E1A344?style=for-the-badge&logo=phpmyadmin&logoColor=white">
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</p>
 
 <h3>
-   ⚙️ Herramientas y Tecnologías
+   ## 🏅Tecnologías que he usado.
 </h3>
 
-- 💻 Back-End: PHP, Laravel, Android Studio Java , JQuery ,AJAX, Javascript y Java.
+- 💻 Back-End: PHP, Laravel, Android Studio Java ,JavaScript,JQuery ,AJAX, Javascript y Java.
 - 🗂️ Front-end: HTML, CSS, Bootstrap 5, Wordpress , Woocommerce, Elementor y Divi.
-- 🗃️ Base de datos: MYSQL y phpmyadmin.
+- 🗃️ Base de datos: MYSQL y phpMyAdmin.
 - 📡 Telecomunicaciones: IPTV (Nimble Streamer,THEO Player, Magoware y Exoplayer)
 - 🖥️ Sistemas Operativo: Linux (Ubuntu 18.04, Ubuntu 20.04, Debian) , Windows.
 - 💽 Software de Gestion: Proxmox , Observium , github.
