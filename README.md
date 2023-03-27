@@ -24,6 +24,7 @@ Escríbeme un email o Descarga mi CV.
 <h3>
   🚀 Principal Stack
 </h3> 
+[![My Skills](https://skillicons.dev/icons?i=js,php,laravel,java,androidstudio,linux,mysql,github)](https://skillicons.dev)
 
 <p>
  <img src="https://img.shields.io/badge/PHP-546E8C?style=for-the-badge&logo=php&logoColor=white">
