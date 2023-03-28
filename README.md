@@ -59,8 +59,8 @@ Escríbeme un email o Descarga mi CV.
 
 ### Repositorios TOP
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dmarquezsv&repo=recargo_automatico_splynx&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/dmarquezsv/react-url-shortener-front)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dmarquezsv&repo=crud-api-laravel&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/dmarquezsv/mealplan-front)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dmarquezsv&repo=recargo_automatico_splynx&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/dmarquezsv/recargo_automatico_splynx)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dmarquezsv&repo=crud-api-laravel&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/dmarquezsv/crud-api-laravel)
 
 ---
 
