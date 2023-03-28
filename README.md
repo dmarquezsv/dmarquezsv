@@ -57,6 +57,13 @@ Escríbeme un email o Descarga mi CV.
   </tr>
 </table>
 
+### Repositorios TOP
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dmarquezsv&repo=react-url-shortener-front&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/dmarquezsv/react-url-shortener-front)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dmarquezsv&repo=mealplan-front&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/dmarquezsv/mealplan-front)
+
+---
+
 
 <!---
 developer-marquez/developer-marquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
