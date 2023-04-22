@@ -12,7 +12,7 @@ Estoy comprometido con la actualización constante de mis conocimientos y habili
 ## Recursos
 Escríbeme un email o Descarga mi CV.
 - Mi email: <a style="margin-left: 8px;" href="mailto:devsmarquez@gmail.com">devsmarquez@gmail.com</a>
-- Mi CV en formato PDF: <a style="text-align: center;" href="http://dmarquez.ga/documents/cv_daniel_marquez.pdf">Curriculum Vitae</a>
+- Mi CV en formato PDF: <a style="text-align: center;" href="https://dmarquezsv.000webhostapp.com/document/cv_daniel_marquez.pdf">Curriculum Vitae</a>
 
 📱 Redes Sociales<br>
 
