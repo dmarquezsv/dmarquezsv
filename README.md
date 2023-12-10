@@ -1,4 +1,5 @@
-# ¡Hola! 👋 Bienvenido...
+# ¡Hola!, Soy Daniel Márquez 👋 Bienvenido...
+![@WEBMAKER SV](https://github.com/dmarquezsv/dmarquezsv/assets/94775277/fb7a3b7b-482b-46fb-9411-1d5c9620014a)
 ```shell
  { “name” : “Daniel Márquez”,
    “rol” : “Programador Junior”
