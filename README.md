@@ -1,5 +1,5 @@
 # ¡Hola!, Soy Daniel Márquez 👋 Bienvenido...
-![@WEBMAKER SV (2)](https://github.com/dmarquezsv/dmarquezsv/assets/94775277/4c55dd90-bb74-4bcb-a0b9-1ad098880170)
+![webmakersv](https://github.com/dmarquezsv/dmarquezsv/assets/94775277/54a36aa2-922e-45e3-9086-2651f5ef12d6)
 
 ```shell
  { “name” : “Daniel Márquez”,
