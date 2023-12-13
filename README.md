@@ -1,5 +1,6 @@
 # ¡Hola!, Soy Daniel Márquez 👋 Bienvenido...
-![webmakersv](https://github.com/dmarquezsv/dmarquezsv/assets/94775277/54a36aa2-922e-45e3-9086-2651f5ef12d6)
+![Agencia de marketing (1)](https://github.com/dmarquezsv/dmarquezsv/assets/94775277/5aebdd04-5af3-4874-8c27-a6b509747de1)
+
 
 ```shell
  { “name” : “Daniel Márquez”,
