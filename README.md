@@ -27,11 +27,11 @@ Soy **Desarrollador Full Stack** con enfoque fuerte en **backend**, especializad
 
 Recientemente finalicé el desarrollo del **Sistema de Monitoreo y Seguimiento de las Modalidades Educativas Alternas (MINEDUCYT)**, una **plataforma nacional** desplegada en **Google Cloud Platform**, orientada a la gestión y análisis de indicadores educativos a nivel país, **concluida en enero de 2025**.
 
-Mi trabajo se centra en diseñar soluciones **mantenibles, trazables y orientadas a datos**, aplicando buenas prácticas de arquitectura, seguridad y optimización de consultas, siempre con foco en entornos reales de producción.
+Mi trabajo se centra en diseñar soluciones **mantenibles, trazables y orientadas a datos**, aplicando buenas prácticas de arquitectura, seguridad y optimización de consultas, con **participación activa en el desarrollo frontend utilizando Angular** cuando el proyecto lo requiere.
 
 **Áreas clave en las que trabajo:**
 - 🔐 Autenticación y autorización con **JWT** y **RBAC (roles y permisos)**
-- 📊 **Reportería avanzada** (PDF, Excel, CSV) con estructuras jerárquicas
+- 📊 **Reportería avanzada** (PDF, Excel, CSV)
 - 🧱 Arquitectura limpia (**Repository – Service – Controller**)
 - ☁️ Despliegue con **Docker** en **Google Cloud Platform**
 - 🧠 Optimización de rendimiento y calidad de datos
@@ -48,8 +48,47 @@ Mi trabajo se centra en diseñar soluciones **mantenibles, trazables y orientada
 
 - **Backend:** Java · Spring Boot · API REST · JWT · RBAC  
 - **Frontend:** Angular 17 · TypeScript  
-- **Base de datos:** PostgreSQL (SQL avanzado, agregaciones, reportería)  
+- **Base de datos:** PostgreSQL (SQL avanzado, agregaciones y reportería)  
 - **Infraestructura:** Docker · Google Cloud Platform  
+
+---
+
+## 🏛️ Proyecto destacado: Plataforma MINEDUCYT
+
+**Sistema de Monitoreo y Seguimiento de las Modalidades Educativas Alternas**  
+Proyecto institucional de alcance nacional, orientado a fortalecer la gestión, el monitoreo y el análisis de indicadores educativos.
+
+### 🎯 Rol
+**Desarrollador Full Stack**, con enfoque principal en backend y **participación activa en el desarrollo frontend con Angular**.
+
+### 🧩 Responsabilidades clave
+- Diseño e implementación de **APIs REST seguras** para el consumo de información institucional.
+- Implementación de **autenticación JWT** y **control de acceso basado en roles (RBAC)**.
+- Desarrollo de **módulos de reportería** con exportación a **PDF, Excel y CSV**, orientados a la toma de decisiones.
+- Construcción de **consultas SQL optimizadas** y **estructuras jerárquicas de datos** para análisis agregado.
+- **Desarrollo backend e integración frontend–backend utilizando Angular**, incluyendo construcción de componentes, consumo de servicios REST y validaciones de interfaz.
+- Despliegue de la solución en **Google Cloud Platform**, utilizando **contenedores Docker**.
+
+### 🛠️ Tecnologías principales
+- Java · Spring Boot  
+- Angular 17 · TypeScript  
+- PostgreSQL  
+- Docker · Google Cloud Platform  
+
+### 🔒 Nota
+Por acuerdos de confidencialidad, el código fuente y la implementación interna del sistema no son públicos.  
+La información presentada describe mi **rol, responsabilidades y tecnologías utilizadas**, sin exponer componentes sensibles del proyecto.
+
+---
+
+## 🏆 ¿Qué aporto a un equipo?
+
+- ✅ Desarrollo de **módulos completos** (lógica, seguridad y validaciones)
+- ✅ Implementación real de **RBAC** (rutas, submódulos y acciones)
+- ✅ **Reportes institucionales** listos para toma de decisiones
+- ✅ Manejo de **estructuras jerárquicas de datos**
+  (departamento → programa → sede → totales)
+- ✅ Código claro, documentado y pensado para mantenimiento a largo plazo
 
 ---
 
@@ -64,17 +103,6 @@ Mi trabajo se centra en diseñar soluciones **mantenibles, trazables y orientada
 - PHP · Laravel · MySQL  
 - HTML · CSS · Bootstrap  
 - WordPress (proyectos freelance y soluciones rápidas según contexto)
-
----
-
-## 🏆 ¿Qué aporto a un equipo?
-
-- ✅ Desarrollo de **módulos completos** (lógica, seguridad y validaciones)
-- ✅ Implementación real de **RBAC** (rutas, submódulos y acciones)
-- ✅ **Reportes institucionales** listos para toma de decisiones
-- ✅ Manejo de **estructuras jerárquicas de datos**
-  (departamento → programa → sede → totales)
-- ✅ Código claro, documentado y pensado para mantenimiento a largo plazo
 
 ---
 
@@ -106,10 +134,4 @@ Mi trabajo se centra en diseñar soluciones **mantenibles, trazables y orientada
   </tr>
 </table>
 
----
-
-## 📌 Repositorios destacados
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dmarquezsv&repo=recargo_automatico_splynx&theme=radical)](https://github.com/dmarquezsv/recargo_automatico_splynx)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dmarquezsv&repo=crud-api-laravel&theme=radical)](https://github.com/dmarquezsv/crud-api-laravel)
 
