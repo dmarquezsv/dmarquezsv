@@ -90,6 +90,8 @@ La información presentada describe mi **rol, responsabilidades y tecnologías u
   (departamento → programa → sede → totales)
 - ✅ Código claro, documentado y pensado para mantenimiento a largo plazo
 
+> 🧠 Utilizo herramientas de **IA como apoyo para análisis y validación técnica**, manteniendo siempre el **control del diseño, la lógica y la toma de decisiones**.
+
 ---
 
 ## 🧰 Experiencia complementaria
