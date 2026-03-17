@@ -57,7 +57,7 @@ Mi trabajo se centra en diseñar soluciones **mantenibles, trazables y orientada
 
 **Sistema de Monitoreo y Seguimiento de las Modalidades Educativas Alternas**  
 Proyecto institucional de alcance nacional, orientado a fortalecer la gestión, el monitoreo y el análisis de indicadores educativos.
-
+https://github.com/UDB-Proyectos-Eductativos
 ### 🎯 Rol
 **Desarrollador Full Stack**, con enfoque principal en backend y **participación activa en el desarrollo frontend con Angular**.
 
